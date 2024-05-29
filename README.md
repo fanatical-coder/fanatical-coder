@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...web development.
 - 📫 How to reach me ...dhruvchhabra5119@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- Author: ...dhruv chhabra
 
 <!---
 fanatical-coder/fanatical-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
